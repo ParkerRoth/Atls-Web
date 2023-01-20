@@ -8,7 +8,7 @@
 - JS
 
 ## In-Class Assignments
-- ICA1
+- [ICA1](https://parkerroth.github.io/Atls-Web/wa/wa1.html)
 - ICA2
 - ICA3
 - ICA4
