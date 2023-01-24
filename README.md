@@ -8,7 +8,7 @@
 - JS
 
 ## In-Class Assignments
-- [ICA1](https://parkerroth.github.io/Atls-Web/wa/wa1.html)
+- [ICA1](https://docs.google.com/document/d/1YkS2IWXxElUzFhmw5fHEp0Fywnd8j9LCf4CouMuvaxM/edit)
 - ICA2
 - ICA3
 - ICA4
@@ -25,7 +25,7 @@
 - ICA15
 
 ## Weekly Assignments
-- WA1
+- [WA1](https://parkerroth.github.io/Atls-Web/wa/wa1.html)
 - WA2
 - WA3
 - WA4
