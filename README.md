@@ -10,7 +10,7 @@
 ## In-Class Assignments
 - [ICA1](https://docs.google.com/document/d/1YkS2IWXxElUzFhmw5fHEp0Fywnd8j9LCf4CouMuvaxM/edit)
 - [ICA2](https://docs.google.com/document/d/1RNZ9JhkLDuRpKUMHluIfSiP_ta2Ks0r7Ot6AljlCnPI/edit)
-- [ICA3](http://127.0.0.1:5500/ica/ica3a.html)
+- [ICA3](https://parkerroth.github.io/Atls-Web/ica/ica3a.html)
 - ICA4
 - ICA5
 - ICA6
@@ -27,7 +27,7 @@
 ## Weekly Assignments
 - [WA1](https://parkerroth.github.io/Atls-Web/wa/wa1.html)
 - [WA2](https://parkerroth.github.io/Atls-Web/wa/wa2.html)
-- [WA3](http://127.0.0.1:5500/wa/wa3.html)
+- [WA3](https://parkerroth.github.io/Atls-Web/wa/wa3.html)
 - WA4
 - WA5
 - WA6
