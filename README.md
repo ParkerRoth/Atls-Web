@@ -27,7 +27,7 @@
 ## Weekly Assignments
 - [WA1](https://parkerroth.github.io/Atls-Web/wa/wa1.html)
 - [WA2](https://parkerroth.github.io/Atls-Web/wa/wa2.html)
-- WA3
+- [WA3](http://127.0.0.1:5500/wa/wa3.html)
 - WA4
 - WA5
 - WA6
