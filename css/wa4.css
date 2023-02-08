@@ -20,11 +20,6 @@ body {
  }
 
 
-  /* Selectors to be matched up with rulesets */
-  
-  .card article img,
-  .card footer,
-  .card header,
   
   .card {
     width: 35em;
@@ -55,7 +50,14 @@ body {
     height: 7.5em;
     background-color: rgba(0,0,0,0.4);
     padding: 3px;
-  
   }
+
+.card_text{
+  color:white;
+  padding: .3em;
+  line-height: .93em;
+}
+
+
 
   
