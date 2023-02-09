@@ -25,10 +25,10 @@
 - ICA15
 
 ## Weekly Assignments
-- [WA1](https://parkerroth.github.io/Atls-Web/wa/wa1.html)
-- [WA2](https://parkerroth.github.io/Atls-Web/wa/wa2.html)
-- [WA3](https://parkerroth.github.io/Atls-Web/wa/wa3.html)
-- WA4
+- [WA1](https://parkerroth.github.io/wa/wa1.html)
+- [WA2](https://parkerroth.github.io/wa/wa2.html)
+- [WA3](https://parkerroth.github.io/wa/wa3.html)
+- [WA4](https://parkerroth.github.io/wa/wa4.html)
 - WA5
 - WA6
 - WA7
