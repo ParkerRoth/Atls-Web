@@ -9,12 +9,12 @@ body{
 
 .spectrum{
     size: 85%;
-    max-width: 150px;
+    max-width: 300px;
     position: absolute;
 }
 
 
-.scoreboard{
+.scoreboard2{
     size: 50%;
     max-width:500px;
     position: absolute;
