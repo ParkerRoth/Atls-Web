@@ -11,7 +11,7 @@
 - [ICA1](https://docs.google.com/document/d/1YkS2IWXxElUzFhmw5fHEp0Fywnd8j9LCf4CouMuvaxM/edit)
 - [ICA2](https://docs.google.com/document/d/1RNZ9JhkLDuRpKUMHluIfSiP_ta2Ks0r7Ot6AljlCnPI/edit)
 - [ICA3](https://parkerroth.github.io/ica/ica3a.html)
-- ICA4
+- [ICA4](https://parkerroth.github.io/ica/ICA4.html)
 - ICA5
 - ICA6
 - ICA7
@@ -29,7 +29,7 @@
 - [WA2](https://parkerroth.github.io/wa/wa2.html)
 - [WA3](https://parkerroth.github.io/wa/wa3.html)
 - [WA4](https://parkerroth.github.io/wa/wa4.html)
-- WA5
+- [WA5](https://parkerroth.github.io/wa/wa5.html)
 - WA6
 - WA7
 - WA8
