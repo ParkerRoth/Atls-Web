@@ -7,7 +7,7 @@ body{
 }
 
 
-.spectrum{
+.spectrumoverlay{
     size: 85%;
     max-width: 300px;
     position: absolute;
