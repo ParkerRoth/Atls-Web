@@ -16,8 +16,8 @@ body{
 
 .scoreboard{
     size: 50%;
-    max-width:200px;
+    max-width:500px;
     position: absolute;
-    left: 1215px;
-    top: 765px;
+    left: 480px;
+    top: 690px;
 }
