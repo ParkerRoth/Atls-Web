@@ -1,0 +1,51 @@
+body{
+    background-color: beige;
+}
+#text1{
+    position: relative;
+    left: 110%;
+    top: 40%;
+}
+#box1{
+    border-style:solid;
+    width: 50vw;
+    height: 25vh;
+    border-color: rgba(20, 250, 173,10);
+    border-width: 3px;
+    border-radius: 10px;
+    background-color: mediumseagreen;
+    position: fixed;
+    top: 50px;
+    margin: auto;
+}
+#text2{
+    position: fixed;
+    bottom: 10px;
+    left: 30px;
+}
+#box2{
+    width: 50vw;
+    height: 25vh;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 3px;
+    border-color:purple;
+    margin: auto;
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    background-color: mediumvioletred;
+}
+#box3{
+    position: sticky center;
+    text-align: center;
+    width: 50vw;
+    height: 200vh;
+    border-radius: 10px;
+    border-width: 3px;
+    border-style: solid;
+    background-color: orangered;
+    border-color: orange;
+    top: 0px;
+    margin: auto;
+}
