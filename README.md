@@ -13,7 +13,7 @@
 - [ICA3](https://parkerroth.github.io/ica/ica3a.html)
 - [ICA4](https://parkerroth.github.io/ica/ICA4.html)
 - [ICA5](https://parkerroth.github.io/ica/ICA5/ica5.html)
-- ICA6
+- [ICA6](https://parkerroth.github.io/ica/ica6/ica6-part1.html)
 - ICA7
 - ICA8
 - ICA9
