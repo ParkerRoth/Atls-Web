@@ -5,9 +5,17 @@ body{
     display: flex;
     flex-direction: row;
     background-color: orangered;
+
 }
+
 #flex-parent p{
     padding: 5vw;
+}
+
+#grid-parent h1{
+    background-color:floralwhite;
+    padding: 3vw 5vh;
+    margin: 5vw;
 }
 #flex-child1{
     order: 3;
@@ -21,15 +29,11 @@ body{
 #flex-child4{
     order: 1;
 }
+
+#no0{
+    grid-column-start: 2;
+}
 #grid-parent{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-}
-#grid-parent h1{
-    background-color:floralwhite;
-    padding: 3vw 5vh;
-    margin: 5vw;
-}
-#no0{
-    grid-column-start: 2;
 }
