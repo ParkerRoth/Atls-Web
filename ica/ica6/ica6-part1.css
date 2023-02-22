@@ -1,11 +1,7 @@
 body{
     background-color: beige;
 }
-#text1{
-    position: relative;
-    left: 110%;
-    top: 40%;
-}
+
 #box1{
     border-style:solid;
     width: 50vw;
@@ -18,11 +14,14 @@ body{
     top: 50px;
     margin: auto;
 }
-#text2{
-    position: fixed;
-    bottom: 10px;
-    left: 30px;
+
+#text1{
+    left: 100%;
+    top: 250 px;
+    position: relative;
 }
+
+
 #box2{
     width: 50vw;
     height: 25vh;
@@ -32,10 +31,18 @@ body{
     border-color:purple;
     margin: auto;
     position: fixed;
-    bottom: 10px;
-    left: 10px;
     background-color: mediumvioletred;
+    bottom: 0;
+    left: 0;
 }
+
+#text2{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+
 #box3{
     position: sticky center;
     text-align: center;
@@ -49,3 +56,10 @@ body{
     top: 0px;
     margin: auto;
 }
+
+#text3{
+    position: sticky;
+    top: 0;
+    font-size: 50;
+}
+
