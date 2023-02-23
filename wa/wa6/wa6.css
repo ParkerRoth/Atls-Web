@@ -8,6 +8,9 @@ body {
   img {
       max-width: 100%;
       display: block;
+      float: left;
+      padding: 20px;
+      display: flex;
   }
   
   .logo {
@@ -45,6 +48,7 @@ body {
     margin: 0;
     padding: 0;
   }
+
 
   .feature {
       width: 200px;
