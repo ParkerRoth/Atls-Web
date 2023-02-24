@@ -30,7 +30,7 @@
 - [WA3](https://parkerroth.github.io/wa/wa3.html)
 - [WA4](https://parkerroth.github.io/wa/wa4.html)
 - [WA5](https://parkerroth.github.io/wa/wa5.html)
-- WA6
+- [WA6](https://parkerroth.github.io/wa/wa6/wa6.html)
 - WA7
 - WA8
 - WA9
