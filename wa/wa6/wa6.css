@@ -87,6 +87,10 @@ body {
       width: 200px;
     }
 
+    .grid{
+      flex-direction: column;
+    }
+
     /* article{
       grid-column-start: 1;
     }
