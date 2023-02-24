@@ -70,7 +70,7 @@ body {
   }
 
   aside{
-    grid-column-start: 5;
+    grid-column-start: 2;
   }
 }
 
@@ -81,6 +81,14 @@ body {
       margin: 0;
       padding: 0;
       display: flex;
+    }
+
+    nav ul{
+      display:block;
+    }
+    .feature{
+      float: none;
+      margin-right: 10px;
     }
 
   }
