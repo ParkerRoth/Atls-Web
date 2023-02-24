@@ -81,21 +81,19 @@ body {
       margin: 0;
       padding: 0;
       display: flex;
-      /* grid-template-columns: 100px 100px; */
-      /* gap: 1px; */
     }
 
     .feature{
       width: 200px;
     }
 
-    article{
+    /* article{
       grid-column-start: 1;
     }
 
     aside{
       grid-column-start: 1;
-    }
+    } */
 
 
   }
