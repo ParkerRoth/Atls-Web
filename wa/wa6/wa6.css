@@ -24,7 +24,6 @@ body {
     margin: 0 auto;
     padding: 0 20px;
     max-width: 980px;
-    /* display: flex; */
     display: grid;
   }
 
@@ -68,12 +67,12 @@ body {
   } */
 
 
-  @media (min-width:500px){
+  @media (min-width: 500px){
   .photos{
     list-style: none;
     padding: 0;
     display: grid;
-    grid-template-columns: 150px 150px;
+    grid-template-columns: 7em 7em;
     gap: 1px;
   }
 
