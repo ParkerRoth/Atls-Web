@@ -83,12 +83,24 @@ body {
       display: flex;
     }
 
-    .feature{
+    /* .feature{
       width: 200px;
-    }
+    } */
 
     .grid{
       flex-direction: column;
+    }
+
+    .child1{
+      width: 90%;
+      padding: 20px;
+    }
+
+    .logo{
+      font-size: 200%;
+      padding: 20px;
+      position: relative;
+      max-width: 500px;
     }
 
     /* article{
