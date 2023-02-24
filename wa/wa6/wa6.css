@@ -70,7 +70,7 @@ body {
   }
 
   aside{
-    grid-column-start: 2;
+    grid-column-start: 5;
   }
 }
 
@@ -82,15 +82,6 @@ body {
       padding: 0;
       display: flex;
     }
-
-    article{
-      grid-column-start: 1;
-    }
-
-    aside{
-      grid-column-start: 1;
-    }
-
 
   }
 
