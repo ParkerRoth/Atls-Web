@@ -33,6 +33,7 @@ nav a{
 nav a:hover{
     font-size: 40px;
     color: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 
@@ -71,6 +72,7 @@ img:hover{
     transition: color .5s ease-in-out;
     font-size: 30px;
     -webkit-text-stroke: 4px purple;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #header:hover{
