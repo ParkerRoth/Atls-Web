@@ -41,15 +41,29 @@ img{
     height: 30vh;
 }
 
-#red-ball{
-    background-color: crimson;
+img:hover{
+    width: 60vw;
+    height: 60vh;
+}
+
+#purple-ball{
+    background-color: purple;
     width: 20px;
     height:20px;
     border-radius: 50%;
     position: absolute;
     left:5vw;
     top:0;
+    animation: ballmove 1s ease-in-out 1s alternate;
+    animation-iteration-count: infinite;
 }
+
+@keyframes ballmove{
+    0%{right:80%}
+    50%{top:60%}
+    100%{left:90%}
+}
+
 
 #header{
     color: green;
