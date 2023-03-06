@@ -45,3 +45,85 @@ nav li :hover{
 .Name:hover{
     color: yellowgreen;
 }
+
+
+
+/* #headshot {
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#headshot img {
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 60px;
+    margin-right: 20px; 
+}
+
+#headshot #top {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: all .5s ease-in-out ;
+}
+
+#headshot:hover #top {
+    display: block;
+}
+
+#headshot:hover #bottom {
+    opacity: 0;
+} */
+
+
+#headshot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 300px;
+    top:0;
+    left: 0;
+    position: relative;
+  }
+  
+  #headshot img {
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: all .5s ease-in-out;
+    height: 300px;
+    width: 300px;
+  }
+
+  
+  #headshot #top {
+    opacity: 0;
+  }
+  
+  #headshot:hover #top {
+    opacity: 1;
+  }
+
+
+  #headshot:hover #bottom {
+    opacity: 1;
+  }
+
+
+
+  
+
+
+
+
+
+
+
