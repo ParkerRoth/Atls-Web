@@ -102,7 +102,7 @@ nav li :hover{
   }
 
 
-  .image-grid{
+  .art-grid{
     --gap: 16px;
     --num-cols: 4;
     --row-height:300px;
@@ -116,11 +116,32 @@ nav li :hover{
     gap: var(--gap);
   }
 
-  .image-grid > img{
+  .art-grid > img{
     width:100%;
-    height: 100%
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .art-grid > img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease-in-out;
+    position: relative;
+    z-index: 0;
   }
   
+  .art-grid > img:hover {
+    transform: scale(2);
+    z-index: 1;
+  }
+  
+  @media screen and (max-width: 1024px) {
+    .art-grid{
+        --num-cols:2;
+        --row-height: 200px;
+    }
+  }
 
 
 
