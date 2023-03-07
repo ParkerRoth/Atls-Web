@@ -156,11 +156,6 @@ nav li :hover{
 
 
 
-  #resume img{
-    left: 500;
-  }
-
-
 
   #contactinfo{
     width: 20em;      
@@ -170,8 +165,6 @@ nav li :hover{
     word-wrap: break-word;      
     font-size: 20px;
     margin:0 auto;
-    
-   
     
   }
 
