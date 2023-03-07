@@ -113,10 +113,14 @@ nav li :hover{
     display:grid;
     grid-template-columns: repeat(var(--num-cols),1fr);
     grid-auto-rows: var(--row-height);
-
-
-
+    gap: var(--gap);
   }
+
+  .image-grid > img{
+    width:100%;
+    height: 100%
+  }
+  
 
 
 
