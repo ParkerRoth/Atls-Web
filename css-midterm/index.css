@@ -10,6 +10,7 @@ nav {
     position:sticky;
     top:0;
     border-radius: 10px;
+    z-index: 2;
 }
   
 nav ul {
@@ -144,10 +145,38 @@ nav li :hover{
   }
 
 
+  #linkedin img{
+    right: 15px;
+    top: -1450px;
+    position: relative;
+    z-index: 1;
+    width: 100px;
+    left: 550px;
+  }
+
+
+
   #resume img{
     left: 500;
-
   }
+
+
+
+  #contactinfo{
+    width: 20em;      
+    background-color: yellowgreen;       
+    border: 5px solid black;      
+    padding: 20px;      
+    word-wrap: break-word;      
+    font-size: 20px;
+    margin:0 auto;
+    
+   
+    
+  }
+
+
+
 
 
 
