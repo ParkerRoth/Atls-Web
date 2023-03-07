@@ -86,7 +86,7 @@ nav li :hover{
 
 
   #about{
-    width: 30em;      
+    width: 40em;      
     background-color: yellowgreen;       
     border: 5px solid black;      
     padding: 20px;      
@@ -94,17 +94,12 @@ nav li :hover{
     font-size: 20px;   
   }
 
-
-
-  
-
-
-
-  
-
-
-
-
+  #LosAngeles img{
+    right: 15px;
+    top: 260px;
+    position: absolute;
+    z-index: -999;
+  }
 
 
 
