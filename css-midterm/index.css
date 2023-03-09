@@ -196,7 +196,7 @@ nav li :hover{
 
         @media only screen and (max-width: 1024px){
           #resume img{
-            max-width: 80%;
+            max-width: 100%;
           }
         }
 
