@@ -202,4 +202,24 @@ nav li :hover{
 
 
 
+        @media only screen and (max-width: 1024px){
+          #LosAngeles img{
+            top: 1162px;
+            left: 10px;
+            
+          }
+        }
+
+
+        @media only screen and (max-width: 1024px){
+          #about{
+            width: 22.9em;
+          }
+        }
+
+
+
+
+
+
 
