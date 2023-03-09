@@ -169,6 +169,18 @@ nav li :hover{
   }
 
 
+  #welcome{
+    font-size:40px;
+    position: absolute;
+    top: 250px;
+    right: 250px;
+    margin-top: 20px;
+    margin-right: 20px;
+    color: green;
+    
+  }
+
+
 
   @media screen and (max-width: 1024px) {
     nav a {
@@ -224,6 +236,17 @@ nav li :hover{
             list-style: none;
           }
         }
+
+
+        @media only screen and (max-width:1024px){
+          #welcome{
+            writing-mode: vertical-rl;
+            text-orientation: upright;
+            right: -30px;
+            top: 300px;
+          }
+
+          }
 
 
 
