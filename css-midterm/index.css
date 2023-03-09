@@ -206,6 +206,7 @@ nav li :hover{
           #LosAngeles img{
             top: 1162px;
             left: 10px;
+            max-width: 100%;
             
           }
         }
@@ -214,6 +215,13 @@ nav li :hover{
         @media only screen and (max-width: 1024px){
           #about{
             width: 22.9em;
+          }
+        }
+
+
+        @media only screen and (max-width:1024px){
+          nav ul{
+            list-style: none;
           }
         }
 
