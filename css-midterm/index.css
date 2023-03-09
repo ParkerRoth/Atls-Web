@@ -103,18 +103,19 @@ nav li :hover{
   }
 
 
+  /* Borrowed code lines 107-118 to make the photos display in a grid */
   .art-grid{
-    --gap: 16px;
-    --num-cols: 4;
-    --row-height:300px;
+    --space: 16px;
+    --cols: 4;
+    --height:300px;
 
     box-sizing: border-box;
-    padding: var(--gap);
+    padding: var(--space);
 
-    display:grid;
-    grid-template-columns: repeat(var(--num-cols),1fr);
-    grid-auto-rows: var(--row-height);
-    gap: var(--gap);
+    display: grid;
+    grid-template-columns: repeat(var(--cols),1fr);
+    grid-auto-rows: var(--height);
+    gap: var(--space);
   }
 
   .art-grid > img{
@@ -139,8 +140,8 @@ nav li :hover{
   
   @media screen and (max-width: 1024px) {
     .art-grid{
-        --num-cols:2;
-        --row-height: 200px;
+        --cols:2;
+        --height: 220px;
     }
   }
 
