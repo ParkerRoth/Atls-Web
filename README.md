@@ -4,7 +4,7 @@
 
 ## Projects
 - [HTML](https://parkerroth.github.io/html-midterm/page5.html)
-- CSS
+- [CSS](https://parkerroth.github.io)
 - JS
 
 ## In-Class Assignments
@@ -14,9 +14,9 @@
 - [ICA4](https://parkerroth.github.io/ica/ICA4.html)
 - [ICA5](https://parkerroth.github.io/ica/ICA5/ica5.html)
 - [ICA6](https://parkerroth.github.io/ica/ica6/ica6-part1.html)
-- ICA7
-- ICA8
-- ICA9
+- [ICA7](https://parkerroth.github.io/ica/ica7/ica7.html)
+- [ICA8](https://parkerroth.github.io/ica/ica8/ica8.html)
+- [ICA9](https://parkerroth.github.io/ica/ica9/ica9.html)
 - ICA10
 - ICA11
 - ICA12
@@ -31,8 +31,8 @@
 - [WA4](https://parkerroth.github.io/wa/wa4.html)
 - [WA5](https://parkerroth.github.io/wa/wa5.html)
 - [WA6](https://parkerroth.github.io/wa/wa6/wa6.html)
-- WA7
-- WA8
+- [WA7](https://parkerroth.github.io/wa/wa7/wa7.html)
+- [WA8](https://parkerroth.github.io/wa/wa8/wa8.html)
 - WA9
 - WA10
 - WA11
