@@ -1,0 +1,39 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkcyan;
+    width: 650px;
+    color: rgb(40, 54, 24);
+    font-size:20px;
+    letter-spacing: 3px;
+
+  }
+
+  label {
+    font-weight: bold;  
+    font-size: 50px;
+
+  }
+
+  div {
+    padding-bottom: 40px;
+  }
+
+  input[type="text"] {
+    padding: 5px;
+    width: 150px;
+  }
+
+  p {
+    background: rgb(219, 53, 53);
+    color: black;
+    padding: 10px;
+    visibility: hidden;
+    
+  }
+
+  button{
+    width: 200px;
+    height: 300x;
+    font-size: 40px;
+    color: darkcyan;
+  }
