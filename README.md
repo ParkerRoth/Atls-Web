@@ -17,7 +17,7 @@
 - [ICA7](https://parkerroth.github.io/ica/ica7/ica7.html)
 - [ICA8](https://parkerroth.github.io/ica/ica8/ica8.html)
 - [ICA9](https://parkerroth.github.io/ica/ica9/ica9.html)
-- ICA10
+- [ICA10](https://parkerroth.github.io/ica/ica10.html)
 - ICA11
 - ICA12
 - ICA13
