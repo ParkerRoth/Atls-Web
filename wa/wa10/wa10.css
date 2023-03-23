@@ -1,0 +1,90 @@
+h1 {
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+  animation: rainbow 2s infinite;
+}
+@keyframes rainbow {
+    0% {
+      color: red;
+    }
+    20% {
+      color: orange;
+    }
+    40% {
+      color: yellow;
+    }
+    60% {
+      color: green;
+    }
+    80% {
+      color: blue;
+    }
+    100% {
+      color: violet;
+    }
+  }
+
+body {
+  width: 640px;
+  margin: 0 auto;
+  padding: 0;
+  font-size: 1.8em;
+  background-color: darkcyan;
+  margin: 0 auto;
+}
+
+.full-img {
+  position: relative;
+  display: block;
+  width: 640px;
+  height: 480px;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 640px;
+  height: 480px;
+  background-color: rgba(0,0,0,0);
+}
+
+button {
+  border: 0;
+  text-shadow: 1px 1px 1px white;
+  border: 1px solid #999;
+  position: absolute;
+  cursor: pointer;
+  top: 2px;
+  left: 2px;
+  background: linear-gradient(to bottom, darkcyan, aqua);
+  width: 200px;
+  height: 80px;
+  font-size: 40px;
+}
+
+button:hover{
+    background: linear-gradient(to bottom, aqua, darkcyan);
+}
+
+
+  
+.thumb-bar img {
+  display: block;
+  width: 20%;
+  float: left;
+  cursor: pointer;
+}
+
+.thumb-bar img:hover {
+  animation: rotate 2s infinite;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
