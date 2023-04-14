@@ -1,0 +1,13 @@
+h1{
+    color: coral;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 2px 5px 3px rgba(0,0,0,0.5);
+    transition: all 0.3s ease-in-out;
+    border-radius: 10px;
+}
+
+body{
+    background-image: linear-gradient(to bottom right, #00ffff, #0080ff);
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.5);
+}
