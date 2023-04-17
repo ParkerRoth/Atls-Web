@@ -18,8 +18,8 @@
 - [ICA8](https://parkerroth.github.io/ica/ica8/ica8.html)
 - [ICA9](https://parkerroth.github.io/ica/ica9/ica9.html)
 - [ICA10](https://parkerroth.github.io/ica/ica10.html)
-- ICA11
-- ICA12
+- [ICA11](https://parkerroth.github.io/ica/ica11.html)
+- [ICA12](https://parkerroth.github.io/ica/ica12.html)
 - ICA13
 - ICA14
 - ICA15
@@ -33,10 +33,10 @@
 - [WA6](https://parkerroth.github.io/wa/wa6/wa6.html)
 - [WA7](https://parkerroth.github.io/wa/wa7/wa7.html)
 - [WA8](https://parkerroth.github.io/wa/wa8/wa8.html)
-- [WA9](https://parkerroth.github.io/wa/wa9/wa9.html)
-- WA10
-- WA11
-- WA12
+- [WA9](https://parkerroth.github.io/wa/wa9.html)
+- [WA10](https://parkerroth.github.io/wa/wa10/wa10.html)
+- [WA11](https://parkerroth.github.io/wa/wa11.html)
+- [WA12](https://parkerroth.github.io/wa/wa12/wa12.html)
 - WA13
 - WA14
 - WA15
