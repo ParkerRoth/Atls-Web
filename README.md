@@ -32,7 +32,6 @@
 - [WA5](https://parkerroth.github.io/wa/wa5.html)
 - [WA6](https://parkerroth.github.io/wa/wa6/wa6.html)
 - [WA7](https://parkerroth.github.io/wa/wa7/wa7.html)
-- [WA8](https://parkerroth.github.io/wa/wa8/wa8.html)
 - [WA9](https://parkerroth.github.io/wa/wa9.html)
 - [WA10](https://parkerroth.github.io/wa/wa10/wa10.html)
 - [WA11](https://parkerroth.github.io/wa/wa11.html)
