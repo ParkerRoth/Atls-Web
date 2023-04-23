@@ -65,7 +65,6 @@ var sliderSubmit = document.querySelector(".slider-submit-button").addEventListe
 var sliderOutput = document.querySelector(".slider-output");
 
 
-// Update the current slider value (each time you drag the slider handle)
 function update() {
   sliderOutput.textContent = slider.value;
 }
