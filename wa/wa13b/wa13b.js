@@ -23,6 +23,7 @@ randomizeButtons.forEach((button, index) => {
 });
 
 
+
 restartButton.addEventListener('click', () => {
   phoneNumberInput.value = '';
 });
